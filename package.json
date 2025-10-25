@@ -1,0 +1,17 @@
+{
+    "name": "sandboxedfunction-css",
+    "version": "0.0.0",
+    "description": "sandboxedfunction css is my css validator",
+    "keywords": [
+        "css",
+        "validator",
+        "css-validator"
+    ],
+    "license": "MIT",
+    "author": "",
+    "type": "module",
+    "main": "SandboxedFunctionCSS.js",
+    "scripts": {
+        "test": "node tests.js"
+    }
+}
